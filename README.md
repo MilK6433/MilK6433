@@ -23,6 +23,7 @@
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
